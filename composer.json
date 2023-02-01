@@ -1,14 +1,14 @@
 {
-    "name": "laravel-admin-ext/chartjs",
+    "name": "cj-bigdevil/chartjs",
     "description": "Use Chartjs in laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "extension", "chartjs"],
-    "homepage": "https://github.com/laravel-admin-ext/chartjs",
+    "homepage": "https://github.com/CJ-BigDevil/chartjs",
     "license": "MIT",
     "authors": [
         {
-            "name": "song",
-            "email": "zosong@126.com"
+            "name": "CJ",
+            "email": "shigaiyan18@163.com"
         }
     ],
     "require": {

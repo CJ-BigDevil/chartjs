@@ -1,10 +1,6 @@
 Use Chartjs in laravel-admin
 ======
 
-[DEMO](http://demo.laravel-admin.org/chartjs)
-
-Login using `admin/admin`
-
 ## Screenshot
 
 ![qq20180917-132122](https://user-images.githubusercontent.com/1479100/45607189-2b018b80-ba7d-11e8-845e-d7ab810bc07f.png)
@@ -12,7 +8,7 @@ Login using `admin/admin`
 ## Installation
 
 ```bash
-composer require laravel-admin-ext/chartjs
+composer require cj-bigdevil/chartjs
 
 php artisan vendor:publish --tag=laravel-admin-chartjs
 ```
@@ -97,15 +93,7 @@ class ChartjsController extends Controller
 }
 ```
 
-For more usage, please refer to the official [documentation](http://www.chartjs.org/) of chartjs.
-
-## Donate
-
-> Help keeping the project development going, by donating a little. Thanks in advance.
-
-[![PayPal Me](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/zousong)
-
-![-1](https://cloud.githubusercontent.com/assets/1479100/23287423/45c68202-fa78-11e6-8125-3e365101a313.jpg)
+For more usage, please refer to the official [documentation](https://www.chartjs.org/docs/latest/) of chartjs.
 
 License
 ------------
